@@ -46,6 +46,7 @@ The borders of the Archive are undefined, waiting for Architects to render them.
 *   **Contribute Code:** [Review the Core Protocols (CONTRIBUTING.md)](https://www.google.com/search?q=https://github.com/MindframeGames/terra-agnostum/blob/main/CONTRIBUTING.md)
     
 *   **Stabilize the Render:** [Become a Patron Architect](https://www.google.com/search?q=https://github.com/sponsors/MindframeGames)
-    
+
+[Mind Frame Games](www.mindframegames.com)
 
 _“The total number of minds in the universe is 1.”_ — Erwin Schrödinger
