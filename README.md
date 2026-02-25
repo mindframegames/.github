@@ -20,7 +20,8 @@ Our primary focus is the stabilization and expansion of the **Terra Agnostum** s
 
 ### The Archive (Active Project)
 
-*   [**Terra Agnostum Terminal**](https://www.google.com/search?q=https://github.com/MindframeGames/terra-agnostum)**:** A multi-vector, LLM-powered Shared Reality Terminal. Explore the Technate, weave the Faen, and render the unmapped void.
+*   [**Terra Agnostum Terminal**](www.terraagnostum.com)**:** A multi-vector, LLM-powered Shared Reality Terminal. Explore the Technate, weave the Faen, and render the unmapped void.
+*   * [Code](https://github.com/MTyson/terraagnostum)
     
 
 🛠️ THE PLASTEEL STACK
