@@ -20,7 +20,7 @@ Our primary focus is the stabilization and expansion of the **Terra Agnostum** s
 
 ### The Archive (Active Project)
 
-*   [www.terraagnostum.com](https://github.com/mindframegames/terraagnostum)**:** Use-Created Shared Reality Game Engine, Mediated by AI GM. Explore the Technate, weave the Faen, and render the unmapped void.
+*   [www.terraagnostum.com](http://www.terraagnostum.com)**:** Use-Created Shared Reality Game Engine, Mediated by AI GM. Explore the Technate, weave the Faen, and render the unmapped void.
 *   * [Code](https://github.com/MTyson/terraagnostum)
     
 
