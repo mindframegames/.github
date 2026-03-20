@@ -3,7 +3,6 @@
 ⬡ MINDFRAME GAMES ⬡
 ===================
 
-
 [![Mind Frame Games](https://github.com/user-attachments/assets/39a18479-37ec-4926-b61b-9fd6286d8201)](https://www.mindframegames.com)
 
 
@@ -50,3 +49,5 @@ The borders of the Archive are undefined, waiting for Architects to render them.
 [Mind Frame Games](www.mindframegames.com)
 
 _“The total number of minds in the universe is 1.”_ — Erwin Schrödinger
+
+<img width="2048" height="2048" alt="Monitor_Amn_sen" src="https://github.com/user-attachments/assets/abd65177-2fd5-4b8e-8b84-a0131a255989" />
